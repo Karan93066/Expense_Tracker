@@ -42,7 +42,7 @@ This is a simple and efficient Expense Tracking App built using Vite and React.j
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/expense-tracking-app.git](https://github.com/Karan93066/Expense_Tracker.git)
+   git clone https://github.com/Karan93066/Expense_Tracker.git
 
 
 2. Navigate to the project directory:
